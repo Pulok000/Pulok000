@@ -8,6 +8,6 @@
 
 ## My Handles
  [<img src="https://img.shields.io/badge/pulokahmed-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/pulokahmed/)
- [<img src="https://img.shields.io/badge/Pulok000-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/ShahjalalShohag) 
+ [<img src="https://img.shields.io/badge/Pulok000-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/Pulok000) 
 
 ![Profile views](https://gpvc.arturio.dev/Pulok000)
