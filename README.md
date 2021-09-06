@@ -4,7 +4,7 @@
 ### My Stacks
 ![c++](https://img.shields.io/badge/-c++-%232c3e50?style=for-the-badge&logo=c++)
 ![c](https://img.shields.io/badge/-c-%232c3e50?style=for-the-badge&logo=c)
-![c#](https://img.shields.io/badge/-c#-%232c3e50?style=for-the-badge&logo=c#)
+![C#](https://img.shields.io/badge/-C#-%232c3e50?style=for-the-badge&logo=C#)
 ![java](https://img.shields.io/badge/-java-%232c3e50?style=for-the-badge&logo=java)
 ![python](https://img.shields.io/badge/-python-%232c3e50?style=for-the-badge&logo=python)
 ![Mysql](https://img.shields.io/badge/-Mysql-%232c3e50?style=for-the-badge&logo=Mysql)
