@@ -16,7 +16,7 @@
 
 <img src="https://img.shields.io/badge/Languages-151515?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-cpp](https://img.shields.io/badge/c%2B%2B-151515?style=for-the-badge&logo=c%2B%2B&logoColor=79740e&labelColor=151515)![badge-c](https://img.shields.io/badge/c-151515?style=for-the-badge&logo=python&logoColor=79740e&labelColor=151515)![badge-c#](https://img.shields.io/badge/java-151515?style=for-the-badge&logo=java&logoColor=79740e&labelColor=151515)![badge-java](https://img.shields.io/badge/java-151515?style=for-the-badge&logo=java&logoColor=79740e&labelColor=151515)
  ![badge-python](https://img.shields.io/badge/java-151515?style=for-the-badge&logo=java&logoColor=79740e&labelColor=151515)<br/>
-<img src="https://img.shields.io/badge/Frameworks-151515?style=for-the-badge&logo=IPFS&logoColor=FFFFFF">![badge-git](https://img.shields.io/badge/git-151515?style=for-the-badge&logo=git&logoColor=79740e&labelColor=151515) <br/>
+<img src="https://img.shields.io/badge/Frameworks-151515?style=for-the-badge&logo=IPFS&logoColor=FFFFFF">![badge-git](https://img.shields.io/badge/git-151515?style=for-the-badge&logo=git&logoColor=79740e&labelColor=151515)![badge-.Net](https://img.shields.io/badge/.Net-151515?style=for-the-badge&logo=.Net&logoColor=79740e&labelColor=151515) <br/>
 <img src="https://img.shields.io/badge/Database-151515?style=for-the-badge&logo=Redis&logoColor=FFFFFF">![badge-mysql](https://img.shields.io/badge/mysql-151515?style=for-the-badge&logo=mysql&logoColor=79740e&labelColor=151515)
  ![Django](https://img.shields.io/badge/-Django-%232c3e50?style=for-the-badge&logo=Django)
 
