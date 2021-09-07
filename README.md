@@ -1,6 +1,5 @@
 A fresher,enthusiastic individual who loves to solve problems and enjoy programming contest.Curruently learning various algorithms and data structures.
 
-
 ### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pulok000&show_icons=true&count_private=true&theme=dark" alt="Pulok000" />
 
