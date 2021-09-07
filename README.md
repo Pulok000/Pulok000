@@ -1,4 +1,4 @@
-An enthusiastic programmer who loves to solve problems and enjoy programming contest.Curruently learning various algorithms and data structures.
+A fresher,enthusiastic individual who loves to solve problems and enjoy programming contest.Curruently learning various algorithms and data structures.
 
 
 ### My Github Stats
