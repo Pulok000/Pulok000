@@ -3,6 +3,31 @@ A fresher,enthusiastic individual who loves to solve problems and enjoy programm
 ### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pulok000&show_icons=true&count_private=true&theme=dark" alt="Pulok000" />
 
+ # ProblemSolvingStats
+
+
+| OJ | Username | Solve Count |
+| -- | -------- | ----------- |
+| Codeforces | [YouKn0wWho](https://codeforces.com/profile/YouKn0wWho) | 2433 |
+| CodeChef | [sjshohag](https://www.codechef.com/users/sjshohag) | 314 |
+| AtCoder | [YouKn0wWho](https://atcoder.jp/users/YouKn0wWho) | 221 |
+| SPOJ | [sjshohag](https://www.spoj.com/users/sjshohag/) | 172 | 
+| LightOJ | [youkn0wwho](https://lightoj.com/user/youkn0wwho) | 174 | 
+| Toph | [YouKnowWho](https://toph.co/u/YouKnowWho) | 279 |
+| Vjudge | [sjshohag](https://vjudge.net/user/sjshohag) | 687 |
+| UVA | [Shahjalalshohag](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_authorstats&userid=888069) | 19 |
+| HackerEarth | [shahjalalshohag](https://www.hackerearth.com/@shahjalalshohag) | 10 |
+| HackerRank | [shahjalalshohag1](https://www.hackerrank.com/shahjalalshohag1) | 10 |
+| Kattis | [shahjalal-shohag](https://open.kattis.com/users/shahjalal-shohag) | 9 |
+| CS Academy | [YouKnowWho](https://csacademy.com/user/YouKnowWho) | 14 |
+| TOKI | [YouKnowWho](https://tlx.toki.id/profiles/YouKnowWho) | 22 |
+| Total | | 4364 |
+
+Last Updated: 31 Oct, 2021
+ 
+ 
+ 
+ 
 ### My Stacks
 <img src="https://img.shields.io/badge/Languages-151515?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-cpp](https://img.shields.io/badge/c%2B%2B-151515?style=for-the-badge&logo=c%2B%2B&logoColor=79740e&labelColor=151515)![badge-c](https://img.shields.io/badge/c-151515?style=for-the-badge&logo=c&logoColor=79740e&labelColor=151515)![badge-java](https://img.shields.io/badge/java-151515?style=for-the-badge&logo=java&logoColor=79740e&labelColor=151515)![badge-python](https://img.shields.io/badge/python-151515?style=for-the-badge&logo=python&logoColor=79740e&labelColor=151515)![badge-HTML5](https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=HTML5&logoColor=79740e&labelColor=151515)![badge-CSS](https://img.shields.io/badge/CSS-151515?style=for-the-badge&logo=CSS&logoColor=79740e&labelColor=151515)![badge-PHP](https://img.shields.io/badge/PHP-151515?style=for-the-badge&logo=PHP&logoColor=79740e&labelColor=151515)![badge-javascript](https://img.shields.io/badge/javascript-151515?style=for-the-badge&logo=javascript&logoColor=79740e&labelColor=151515)<br/>
 <img src="https://img.shields.io/badge/Frameworks-151515?style=for-the-badge&logo=IPFS&logoColor=FFFFFF">![badge-git](https://img.shields.io/badge/git-151515?style=for-the-badge&logo=git&logoColor=79740e&labelColor=151515)![badge-.Net](https://img.shields.io/badge/.Net-151515?style=for-the-badge&logo=.Net&logoColor=79740e&labelColor=151515)![badge-django](https://img.shields.io/badge/django-151515?style=for-the-badge&logo=django&logoColor=79740e&labelColor=151515)<br/>
