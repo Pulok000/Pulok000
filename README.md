@@ -1,6 +1,6 @@
 A fresher,enthusiastic individual who loves to solve problems and enjoy programming contest. Currently learning various data structures and algorithms.
 
- # ProblemSolvingStats
+ ### Problem Solving Stats
 
 
 | OJ | Username | Solve Count |
