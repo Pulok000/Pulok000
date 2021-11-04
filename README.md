@@ -5,7 +5,7 @@ A fresher,enthusiastic individual who loves to solve problems and enjoy programm
 
 | OJ | Username | Solve Count |
 | -- | -------- | ----------- |
-| Codeforces | [YouKn0wWho](https://codeforces.com/profile/YouKn0wWho) | 2433 |
+| Codeforces | [pulokcd](https://codeforces.com/profile/pulokcd) | 138 |
 | CodeChef | [sjshohag](https://www.codechef.com/users/sjshohag) | 314 |
 | AtCoder | [YouKn0wWho](https://atcoder.jp/users/YouKn0wWho) | 221 |
 | SPOJ | [sjshohag](https://www.spoj.com/users/sjshohag/) | 172 | 
