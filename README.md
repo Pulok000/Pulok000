@@ -6,19 +6,16 @@ A fresher,enthusiastic individual who loves to solve problems and enjoy programm
 | OJ | Username | Solve Count |
 | -- | -------- | ----------- |
 | Codeforces | [pulokcd](https://codeforces.com/profile/pulokcd) | 138 |
-| CodeChef | [sjshohag](https://www.codechef.com/users/sjshohag) | 314 |
-| AtCoder | [YouKn0wWho](https://atcoder.jp/users/YouKn0wWho) | 221 |
-| SPOJ | [sjshohag](https://www.spoj.com/users/sjshohag/) | 172 | 
-| LightOJ | [youkn0wwho](https://lightoj.com/user/youkn0wwho) | 174 | 
-| Toph | [YouKnowWho](https://toph.co/u/YouKnowWho) | 279 |
-| Vjudge | [sjshohag](https://vjudge.net/user/sjshohag) | 687 |
-| UVA | [Shahjalalshohag](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_authorstats&userid=888069) | 19 |
-| HackerEarth | [shahjalalshohag](https://www.hackerearth.com/@shahjalalshohag) | 10 |
-| HackerRank | [shahjalalshohag1](https://www.hackerrank.com/shahjalalshohag1) | 10 |
-| Kattis | [shahjalal-shohag](https://open.kattis.com/users/shahjalal-shohag) | 9 |
-| CS Academy | [YouKnowWho](https://csacademy.com/user/YouKnowWho) | 14 |
-| TOKI | [YouKnowWho](https://tlx.toki.id/profiles/YouKnowWho) | 22 |
-| Total | | 4364 |
+| CodeChef | [Pulok Ahmed](https://www.codechef.com/users/pulokpoka) | 2 |
+| GeekforGeek | [poka](https://auth.geeksforgeeks.org/user/poka/profile) | 29 |
+| leetcode | [PULOK_AHMED](https://leetcode.com/PULOK_AHMED/) | 9 |
+| AtCoder | [pulok_aiub](https://atcoder.jp/users/pulok_aiub) | 13 |
+| SPOJ | [Niloy Ahmed Pulok](https://www.spoj.com/users/pulok_ahmed/) | 4 | 
+| LightOJ | [Poka](https://lightoj.com/user/pulok1952478) | 11 | 
+| UVA | [Pulok](https://uhunt.onlinejudge.org/id/1219509) | 13 |
+| HackerEarth | [Pulok Ahmed](https://www.hackerearth.com/@pulok19524) | 2 |
+| HackerRank | [POKA](https://www.hackerrank.com/pulok19524) | 1 |
+| Total | | 222 |
 
 Last Updated: 31 Oct, 2021
  
