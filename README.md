@@ -20,8 +20,8 @@ A fresher,enthusiastic individual who loves to solve problems and enjoy programm
 Last Updated: 31 Oct, 2021
  
 
+<center>
 
-<p align="center"> 
 
  | OJ | Username | Solve Count |
 | -- | -------- | ----------- |
@@ -39,7 +39,7 @@ Last Updated: 31 Oct, 2021
 
 Last Updated: 31 Oct, 2021
 
-<p>
+</center>
 
 ### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pulok000&show_icons=true&count_private=true&theme=dark" alt="Pulok000" />
