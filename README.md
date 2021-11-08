@@ -20,7 +20,7 @@ A fresher,enthusiastic individual who loves to solve problems and enjoy programm
 Last Updated: 31 Oct, 2021
  
 
-<center>
+<p style="text-align:center;">Learn for free</p>
 
 
  | OJ | Username | Solve Count |
