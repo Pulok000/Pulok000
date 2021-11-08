@@ -19,11 +19,10 @@ A fresher,enthusiastic individual who loves to solve problems and enjoy programm
 
 Last Updated: 31 Oct, 2021
  
-<p align="center">
 
 
 
-| OJ | Username | Solve Count |
+<p align="center">| OJ | Username | Solve Count |
 | -- | -------- | ----------- |
 | Codeforces | [pulokcd](https://codeforces.com/profile/pulokcd) | 144 |
 | CodeChef | [Pulok Ahmed](https://www.codechef.com/users/pulokpoka) | 2 |
@@ -39,7 +38,7 @@ Last Updated: 31 Oct, 2021
 
 Last Updated: 31 Oct, 2021
 
-</p>
+
 
 
 ### My Github Stats
