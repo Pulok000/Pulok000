@@ -19,7 +19,24 @@ A fresher,enthusiastic individual who loves to solve problems and enjoy programm
 
 Last Updated: 31 Oct, 2021
  
+ <p align="center"> 
  
+| OJ | Username | Solve Count |
+| -- | -------- | ----------- |
+| Codeforces | [pulokcd](https://codeforces.com/profile/pulokcd) | 144 |
+| CodeChef | [Pulok Ahmed](https://www.codechef.com/users/pulokpoka) | 2 |
+| GeekforGeek | [poka](https://auth.geeksforgeeks.org/user/poka/profile) | 29 |
+| leetcode | [PULOK_AHMED](https://leetcode.com/PULOK_AHMED/) | 9 |
+| AtCoder | [pulok_aiub](https://atcoder.jp/users/pulok_aiub) | 13 |
+| SPOJ | [Niloy Ahmed Pulok](https://www.spoj.com/users/pulok_ahmed/) | 4 | 
+| LightOJ | [Poka](https://lightoj.com/user/pulok1952478) | 11 | 
+| UVA | [Pulok](https://uhunt.onlinejudge.org/id/1219509) | 20 |
+| HackerEarth | [Pulok Ahmed](https://www.hackerearth.com/@pulok19524) | 2 |
+| HackerRank | [POKA](https://www.hackerrank.com/pulok19524) | 1 |
+| Total | | 235 |
+
+Last Updated: 31 Oct, 2021
+
 
 
 
