@@ -20,27 +20,6 @@ A fresher,enthusiastic individual who loves to solve problems and enjoy programm
 Last Updated: 31 Oct, 2021
  
 
-
-
-<p align="center">| OJ | Username | Solve Count |</p>
-<p align="center">| -- | -------- | ----------- |</p>
-<p align="center">| Codeforces | [pulokcd](https://codeforces.com/profile/pulokcd) | 144 |</p>
-<p align="center">| CodeChef | [Pulok Ahmed](https://www.codechef.com/users/pulokpoka) | 2 |</p>
-<p align="center">| GeekforGeek | [poka](https://auth.geeksforgeeks.org/user/poka/profile) | 29 </p>|
-<p align="center">| leetcode | [PULOK_AHMED](https://leetcode.com/PULOK_AHMED/) | 9 |</p>
-<p align="center">| AtCoder | [pulok_aiub](https://atcoder.jp/users/pulok_aiub) | 13 |</p>
-<p align="center">| SPOJ | [Niloy Ahmed Pulok](https://www.spoj.com/users/pulok_ahmed/) | 4 |</p>
-<p align="center">| LightOJ | [Poka](https://lightoj.com/user/pulok1952478) | 11 |</p>
-<p align="center">| UVA | [Pulok](https://uhunt.onlinejudge.org/id/1219509) | 20 |</p>
-<p align="center">| HackerEarth | [Pulok Ahmed](https://www.hackerearth.com/@pulok19524) | 2 |</p>
-<p align="center">| HackerRank | [POKA](https://www.hackerrank.com/pulok19524) | 1 |</p>
-<p align="center">| Total | | 235 |</p>
-
-<p align="center">Last Updated: 31 Oct, 2021</p>
-
-
-
-
 ### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pulok000&show_icons=true&count_private=true&theme=dark" alt="Pulok000" />
 
