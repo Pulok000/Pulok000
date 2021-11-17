@@ -12,10 +12,10 @@ A fresher,enthusiastic individual who loves to solve problems and enjoy programm
 | AtCoder | [pulok_aiub](https://atcoder.jp/users/pulok_aiub) | 13 |
 | SPOJ | [Niloy Ahmed Pulok](https://www.spoj.com/users/pulok_ahmed/) | 4 | 
 | LightOJ | [Poka](https://lightoj.com/user/pulok1952478) | 11 | 
-| UVA | [Pulok](https://uhunt.onlinejudge.org/id/1219509) | 24 |
+| UVA | [Pulok](https://uhunt.onlinejudge.org/id/1219509) | 25 |
 | HackerEarth | [Pulok Ahmed](https://www.hackerearth.com/@pulok19524) | 2 |
 | HackerRank | [POKA](https://www.hackerrank.com/pulok19524) | 1 |
-| Total | | 246 |
+| Total | | 247 |
 
 Last Updated: 31 Oct, 2021
  
