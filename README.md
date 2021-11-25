@@ -15,7 +15,7 @@ A fresher,enthusiastic individual who loves to solve problems and enjoy programm
 | UVA | [Pulok](https://uhunt.onlinejudge.org/id/1219509) | 25 |
 | HackerEarth | [Pulok Ahmed](https://www.hackerearth.com/@pulok19524) | 2 |
 | HackerRank | [POKA](https://www.hackerrank.com/pulok19524) | 1 |
-| Total | | 254 |
+| Total | | 256 |
 
 Last Updated: 31 Oct, 2021
  
