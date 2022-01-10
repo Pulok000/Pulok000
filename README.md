@@ -16,7 +16,7 @@ A fresher,enthusiastic individual who loves to solve problems and enjoy programm
 | HackerEarth | [Pulok Ahmed](https://www.hackerearth.com/@pulok19524) | 2 |
 | HackerRank | [POKA](https://www.hackerrank.com/pulok19524) | 1 |
 | Kattis | [Pulok Ahmed](https://open.kattis.com/users/pulok-ahmed) | 2 |
-| Total | | 305 |
+| Total | | 306 |
 
 Last Updated: 31 Oct, 2021
  
