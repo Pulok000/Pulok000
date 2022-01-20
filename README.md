@@ -6,7 +6,7 @@ A fresher,enthusiastic individual who loves to solve problems and enjoy programm
 | OJ | Username | Solve Count |
 | -- | -------- | ----------- |
 | Codeforces | [pulokcd](https://codeforces.com/profile/pulokcd) | 201 |
-| CodeChef | [Pulok Ahmed](https://www.codechef.com/users/pulokpoka) | 8 |
+| CodeChef | [Pulok Ahmed](https://www.codechef.com/users/pulokpoka) | 9 |
 | GeekforGeek | [poka](https://auth.geeksforgeeks.org/user/poka/profile) | 29 |
 | leetcode | [PULOK_AHMED](https://leetcode.com/PULOK_AHMED/) | 9 |
 | AtCoder | [pulok_aiub](https://atcoder.jp/users/pulok_aiub) | 22 |
