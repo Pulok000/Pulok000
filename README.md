@@ -7,7 +7,7 @@ A fresher,enthusiastic individual who loves to solve problems and enjoy programm
 | -- | -------- | ----------- |
 | Codeforces | [pulokcd](https://codeforces.com/profile/pulokcd) | 208 |
 | CodeChef | [Pulok Ahmed](https://www.codechef.com/users/pulokpoka) | 20 |
-| GeekforGeek | [poka](https://auth.geeksforgeeks.org/user/poka/profile) | 30 |
+| GeekforGeek | [poka](https://auth.geeksforgeeks.org/user/poka/profile) | 31 |
 | leetcode | [PULOK_AHMED](https://leetcode.com/PULOK_AHMED/) | 9 |
 | AtCoder | [pulok_aiub](https://atcoder.jp/users/pulok_aiub) | 23 |
 | SPOJ | [Niloy Ahmed Pulok](https://www.spoj.com/users/pulok_ahmed/) | 4 | 
