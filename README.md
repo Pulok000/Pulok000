@@ -8,7 +8,7 @@ A fresher,enthusiastic individual who loves to solve problems and enjoy programm
 | Codeforces | [pulokcd](https://codeforces.com/profile/pulokcd) | 214 |
 | CodeChef | [Pulok Ahmed](https://www.codechef.com/users/pulokpoka) | 27 |
 | GeekforGeek | [poka](https://auth.geeksforgeeks.org/user/poka/profile) | 33 |
-| leetcode | [PULOK_AHMED](https://leetcode.com/PULOK_AHMED/) | 10 |
+| leetcode | [PULOK_AHMED](https://leetcode.com/PULOK_AHMED/) | 11 |
 | AtCoder | [pulok_aiub](https://atcoder.jp/users/pulok_aiub) | 23 |
 | SPOJ | [Niloy Ahmed Pulok](https://www.spoj.com/users/pulok_ahmed/) | 4 | 
 | LightOJ | [Poka](https://lightoj.com/user/pulok1952478) | 15 | 
@@ -17,7 +17,7 @@ A fresher,enthusiastic individual who loves to solve problems and enjoy programm
 | HackerRank | [POKA](https://www.hackerrank.com/pulok19524) | 1 |
 | Kattis | [Pulok Ahmed](https://open.kattis.com/users/pulok-ahmed) | 2 |
 | coding ninja | [Pulok Ahmed](https://www.codingninjas.com/codestudio/profile/e4350f3d-dfc4-41e7-ad6f-fc719ad3a000) | 2 |
-| Total | | 361 |
+| Total | | 362 |
 
 Last Updated: 31 Oct, 2021
  
