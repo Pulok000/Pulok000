@@ -16,7 +16,7 @@
 | HackerRank | [POKA](https://www.hackerrank.com/pulok19524) | 1 |
 | Kattis | [Pulok Ahmed](https://open.kattis.com/users/pulok-ahmed) | 2 |
 | coding ninja | [Pulok Ahmed](https://www.codingninjas.com/codestudio/profile/e4350f3d-dfc4-41e7-ad6f-fc719ad3a000) | 2 |
-| Total | | 369 |
+
 
 Last Updated: 31 Oct, 2021
  
